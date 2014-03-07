@@ -1,0 +1,130 @@
+b<?xml version="1.0"?>
+<?xml-stylesheet type="text/xsl" href="book.xsl"?>
+<books>
+<book>
+<book_id>1</book_id>
+<title>Sharp's Tiger</title>
+<year>1799</year>
+<description>Richard Sharpe and the Siege of Seringapatam</description>
+</book>
+<book>
+<book_id>2</book_id>
+<title>Sharpe's Triumph</title>
+<year> September 1803</year>
+<description>Richard Sharpe and the Battle of Assaye</description>
+</book>
+<book>
+<book_id>3</book_id>
+<title>Sharpe's Fortress</title>
+<year>December 1803</year>
+<description>Richard Sharpe and the Siege of Gawilghur</description>
+</book>
+<book>
+<book_id>4</book_id>
+<title>Sharpe's Trafalgar</title>
+<year>October 1805</year>
+<description>Richard Sharpe and the Battle of Trafalgar</description>
+</book>
+<book>
+<book_id>5</book_id>
+<title>Sharpe's Prey</title>
+<year>1807</year>
+<description>Richard Sharpe and the Expedition to Copenhagen</description>
+</book>
+<book>
+<book_id>6</book_id>
+<title>Sharpe's Rifles</title>
+<year>January 1809</year>
+<description>Richard Sharpe and the French Invasion of Galicia</description>
+</book>
+<book>
+<book_id>7</book_id>
+<title>Sharpe's Havoc</title>
+<year>Spring 1809</year>
+<description>Richard Sharpe and the Campaign in Northern Portugal</description>
+</book>
+<book>
+<book_id>8</book_id>
+<title>Sharpe's Eagle</title>
+<year>July 1809</year>
+<description>Richard Sharpe and the Talavera Campaign</description>
+</book>
+<book>
+<book_id>9</book_id>
+<title>Sharpe's Gold</title>
+<year>1809</year>
+<description>Richard Sharpe and the Destruction of Almeida</description>
+</book>
+<book>
+<book_id>10</book_id>
+<title>Sharpe's Escape</title>
+<year>1811</year>
+<description>Richard Sharpe and the Battle of Busaco</description>
+</book>
+<book>
+<book_id>1</book_id>
+<title>Sharpe's Fury</title>
+<year>1811</year>
+<description>Richard Sharpe and the Battle of Barrosa</description>
+</book>
+<book>
+<book_id>12</book_id>
+<title>Sharpe's Battle</title>
+<year>May 1811</year>
+<description>Richard Sharpe and the Battle of Fuentes de Oñoro</description>
+</book>
+<book>
+<book_id>13</book_id>
+<title>Sharpe's Company</title>
+<year>May 1812</year>
+<description>The Siege of Badajoz</description>
+</book>
+<book>
+<book_id>14</book_id>
+<title>Sharpe's Sword</title>
+<year>June and July 1812</year>
+<description>Richard Sharpe and the Salamanca Campaign</description>
+</book>
+<book>
+<book_id>15</book_id>
+<title>Sharpe's Enemy</title>
+<year>Christmas 1812</year>
+<description>Richard Sharpe and the Defense of Portugal</description>
+</book>
+<book>
+<book_id>16</book_id>
+<title>Sharpe's Honour</title>
+<year>February to June 1813</year>
+<description>Richard Sharpe and the Vitoria Campaign</description>
+</book>
+<book>
+<book_id>17</book_id>
+<title>Sharpe's Regiment</title>
+<year>June to November 1813</year>
+<description>Richard Sharpe and the Invasion of France</description>
+</book>
+<book>
+<book_id>18</book_id>
+<title>Sharpe's Siege</title>
+<year>1814</year>
+<description>Richard Sharpe and the Winter Campaign</description>
+</book>
+<book>
+<book_id>19</book_id>
+<title>Sharpe's Revenge</title>
+<year>1814</year>
+<description>Richard Sharpe and the Peace of 1814</description>
+</book>
+<book>
+<book_id>20</book_id>
+<title>Sharpe's Waterloo</title>
+<year>15 June to 18 June 1815</year>
+<description>Richard Sharpe and the Waterloo Campaign</description>
+</book>
+<book>
+<book_id>21</book_id>
+<title>Sharpe's Devil</title>
+<year>1820-21</year>
+<description>Richard Sharpe and the Emperor</description>
+</book>
+</books>

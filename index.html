@@ -1,0 +1,116 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+ <style type="text/css">
+div#video_player_box{ width:550px; background:#000; margin:0px auto;}
+div#video_controls_bar{ background: #333; padding:10px; color:#CCC;}
+input#seekslider{ width:180px; }
+input#volumeslider{ width: 80px;}
+</style>
+
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Home Page</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="css/bootstrap.css" rel="stylesheet">
+
+    <!-- Add custom CSS here -->
+    <link href="css/modern-business.css" rel="stylesheet">
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet">
+  </head>
+
+  <body>
+
+    <nav class="navbar navbar-inverse navbar-fixed-top" role="navigation">
+      <div class="container">
+        <div class="navbar-header">
+          <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+            <span class="sr-only">Toggle navigation</span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+            <span class="icon-bar"></span>
+          </button>
+        </div>
+
+        <!-- Collect the nav links, forms, and other content for toggling -->
+        <div class="collapse navbar-collapse navbar-ex1-collapse">
+          <ul class="nav navbar-nav navbar-right">
+            <li class="active"><a href="index.html">Home</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="newsfeed.html">News</a></li>
+            <li><a href="contact.php">Contact</a></li>
+            <li><a href="JSON_multi_album_gallery.html">Images</a></li>
+             <li><a href="characters.html">Characters</a></li>
+          </ul>
+        </div><!-- /.navbar-collapse -->
+      </div><!-- /.container -->
+    </nav>
+
+    <div class="container">
+
+      <div class="row">
+
+        <div class="col-lg-12">
+        <ol class="breadcrumb">
+          <form action="login.php" method="post" name="logForm" id="logForm" >
+            <table width="263%" border="0" cellpadding="4" cellspacing="4" class="loginform">
+            <td width="20%"><table width="263%" border="0" cellpadding="4" cellspacing="4" class="loginform">
+  <td width="20%">Username / Email</td>
+    <td width="20%"><input name="usr_email" type="text" class="required" id="txtbox" size="25"></td>
+    <td width="11%">Password</td>
+    <td width="49%"><input name="pwd" type="password" class="required password" id="txtbox" size="25"></td>
+  
+    <td colspan="2"><div align="center">
+      <p>
+      <p>
+        <input name="doLogin" type="submit" id="doLogin3" value="Login">
+        or <a href="register.php">Register</a></p>
+    </div>
+            </table></td>
+            </table>
+            <div align="center"></div>
+        <p align="center">&nbsp; </p>
+      </form>
+            
+          </ol>
+        </div>
+
+      </div>
+
+      <div class="row">
+
+        <div class="col-md-6">
+          <img class="img-responsive" src="images/main.jpg">
+        </div>
+        <div class="col-md-6">
+          <h2>Richard Sharpe</h2>
+          <p>Meet Richard Sharpe a bastard son of a whore and a true British hero. Born in the gutters of London and joined the army to escape poverty. Joins the army as a private soldier and manages to do what so few have ever done by rising up the ranks to become an officer. Follow Sharpe in his adventures as he marches through India as a red coated private and through the European countries of Portugal, Span and France as a officer wearing the green jacket of the 95th rifles commanding the chosen men.</p>
+          <video src="images/sharpevid.mp4" controls></video>
+        </div>
+        
+       	
+      </div>
+
+     
+       <footer>
+        <div class="row">
+          <div class="col-lg-12">
+            <p align="center">Jake O'Donohoe C3295319</p>
+            <p>&nbsp;</p>
+          </div>
+        </div>
+      </footer>
+
+    </div><!-- /.container -->
+
+    <!-- Bootstrap core JavaScript -->
+    <!-- Placed at the end of the document so the pages load faster -->
+    <script src="js/jquery.js"></script>
+    <script src="js/bootstrap.js"></script>
+    <script src="js/modern-business.js"></script>
+  </body>
+</html>
